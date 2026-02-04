@@ -1,15 +1,16 @@
 📋 Brutalist Tasks
 
 A bold, high-contrast task management application built with React. This project features a unique "Brutalist" design aesthetic characterized by heavy borders, raw typography, and a personalized onboarding experience.
+
 ✨ Features
 
-Interactive Onboarding: A three-step setup process to personalize the app with your name and productivity goals.
+  Interactive Onboarding: A three-step setup process to personalize the app with your name and productivity goals.
 
-Brutalist UI: Custom-styled components using thick black borders (3px solid #000), heavy box shadows, and hover transitions.
+  Brutalist UI: Custom-styled components using thick black borders (3px solid #000), heavy box shadows, and hover transitions.
 
-Task Categorization: Organize your to-dos into specific categories: Personnel, Travail, Courses, Santé, and Loisirs.
+  Task Categorization: Organize your to-dos into specific categories: Personnel, Travail, Courses, Santé, and Loisirs.
 
-Filtering System: Easily toggle between viewing "All", "Active", or "Completed" tasks, and filter by category.
+  Filtering System: Easily toggle between viewing "All", "Active", or "Completed" tasks, and filter by category.
 
 Persistent Storage: Uses localStorage to save your profile data and task list even after closing the browser.
 
@@ -24,6 +25,7 @@ Icons: Native emojis for a lightweight UI.
 Build Tool: Create React App.
 
 🚀 Getting Started
+
 Prerequisites
 
     Node.js (Latest LTS recommended)
